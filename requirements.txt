@@ -1,0 +1,3 @@
+gradio
+wikipedia-api
+spark_ai_python
