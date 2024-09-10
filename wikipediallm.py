@@ -6,9 +6,9 @@ from sparkai.errors import SparkAIConnectionError
 
 # 设置讯飞星火API密钥和URL
 SPARKAI_URL = 'wss://spark-api.xf-yun.com/v3.5/chat'
-SPARKAI_APP_ID = '822d980e'
-SPARKAI_API_SECRET = 'N2IwNzQ0OTVlYThkZWNjMzI2NTE2MjEz'
-SPARKAI_API_KEY = 'f71d021315b52d5b2cd8e15d6fb95742'
+SPARKAI_APP_ID = 'YOUR_SPARKAI_APP_ID'
+SPARKAI_API_SECRET = 'YOUR_SPARKAI_API_SECRET'
+SPARKAI_API_KEY = 'YOUR_SPARKAI_API_KEY'
 SPARKAI_DOMAIN = 'generalv3.5'
 
 # 初始化Wikipedia API
